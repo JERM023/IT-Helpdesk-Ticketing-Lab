@@ -73,6 +73,9 @@ This repository includes screenshots demonstrating:
 ![Jira Outlook Ticket Details](jira-SC-2.png)
 ![Jira Outlook Ticket Details](jira-SC-3.png)
 ![Jira Outlook Ticket Details](jira-SC-5.png)
+![Jira Outlook Ticket Details](jira-SC-6.png)
+
+
 
 ## Zendesk Ticketing Screenshots
 ![Zendesk Tickets Queue](zendesk-SC-1.png)
